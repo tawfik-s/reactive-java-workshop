@@ -1,7 +1,6 @@
 # Default ignored files
 /shelf/
 .DS_Store
-
 # Compiled class file
 *.class
 
@@ -27,3 +26,5 @@
 hs_err_pid*
 replay_pid*
 .idea/inspectionProfiles/Project_Default.xml
+/.idea/*
+/target/
